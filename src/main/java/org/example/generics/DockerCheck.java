@@ -18,7 +18,7 @@ public class DockerCheck {
 //        int b = sc.nextInt();
 //
 //        int c = a + b;
-//        System.out.println("Add no= " + c);
+
 
 
         List<Integer> ints =  List.of(2,3,3,4,4,5,5,7);
